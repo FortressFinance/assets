@@ -1,0 +1,11 @@
+{
+    "name": " wstETH",
+    "symbol": "wstETH",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "wstETH is a wrapped version of stETH. As some DeFi protocols require a constant balance mechanism for tokens, wstETH keeps your balance of stETH fixed and uses an underlying share system to reflect your earned staking rewards.",
+    "website": "https://lido.fi/",
+    "explorer": "https://etherscan.io/address/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "status": "active",
+    "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+}
