@@ -1,0 +1,11 @@
+{
+    "name": " rETH",
+    "symbol": "rETH",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "Rocket Pool ETH (rETH) is the Rocket Pool protocol's liquid staking token.",
+    "website": "https://rocketpool.net/",
+    "explorer": "https://etherscan.io/token/0xae78736cd615f374d3085123a210448e74fc6393",
+    "status": "active",
+    "id": "0xae78736cd615f374d3085123a210448e74fc6393"
+}
