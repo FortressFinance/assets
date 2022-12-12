@@ -1,0 +1,14 @@
+{
+    "name": "cvxFXS is tokenized veFXS",
+    "website": "hhttps://docs.convexfinance.com/convexfinance/general-information/convex-for-frax-finance",
+    "description": "Convex rewards CRV stakers with a share of the boosted CRV on the Convex platform making it an ideal destination for those who wish to stake CRV whilst remaining liquid",
+    "explorer": "https://etherscan.io/token/0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+    "type": "ERC20",
+    "symbol": "cvxFXS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+    "tags": [
+        "defi"
+    ]
+}
