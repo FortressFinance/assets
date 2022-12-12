@@ -1,0 +1,14 @@
+{
+    "name": "frxETH acts as a stablecoin loosely pegged to ETH",
+    "website": "https://app.frax.finance/",
+    "description": "frxETH acts as a stablecoin loosely pegged to ETH, so that 1 frxETH always represents 1 ETH",
+    "explorer": "https://etherscan.io/token/0x5e8422345238f34275888049021821e8e08caa1f",
+    "type": "ERC20",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "tags": [
+        "defi"
+    ]
+}
