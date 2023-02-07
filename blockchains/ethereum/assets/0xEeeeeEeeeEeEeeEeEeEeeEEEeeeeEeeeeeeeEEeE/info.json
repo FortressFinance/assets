@@ -1,0 +1,11 @@
+{
+    "name": "Ethereum",
+    "type": "ERC20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "website": "Ethereum.org",
+    "description": "Ethereum",
+    "explorer": "https://etherscan.io/token/0x0000A1c00009A619684135B824Ba02f7FbF3A572",
+    "status": "active",
+    "id": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+}
