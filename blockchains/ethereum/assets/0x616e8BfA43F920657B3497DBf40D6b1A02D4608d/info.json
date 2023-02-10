@@ -1,0 +1,11 @@
+{
+    "name": "Aura Balancer",
+    "website": "https://aura.finance/",
+    "description": "Aura Finance is a protocol that is built on top of the Balancer Ecosystem that provides boosted incentives to Balancer liquidity providers",
+    "explorer": "https://etherscan.io/token/0x616e8BfA43F920657B3497DBf40D6b1A02D4608d",
+    "type": "ERC20",
+    "symbol": "Aura BAL",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x616e8BfA43F920657B3497DBf40D6b1A02D4608d"
+}
