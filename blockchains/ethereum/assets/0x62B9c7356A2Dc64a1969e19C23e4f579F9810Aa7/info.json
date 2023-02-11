@@ -1,0 +1,11 @@
+{
+    "name": "Convex CRV",
+    "symbol": "cvxCRV",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+    "status": "active",
+    "id": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7"
+}
